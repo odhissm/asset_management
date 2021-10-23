@@ -2,9 +2,9 @@
 This is a repository for asset management application that helps in evaluating potential risks on a set of assets
 
 
-# Asset Management Application: new application for asset risk analysis
+# Risk Assessment Application: new application for asset risk analysis
 
-Asset Management Application is a fintech risk analysis software used that helps asset manager asses various risks on assets they have or may want to include in their portfolios.
+Risk Assessment Application is a fintech risk analysis software that helps asset manager review potential risks on assets they have or may want to include in their portfolios.
  
 
 The current project is the inital design and development of the application to get MVP that can be tested on the current market cycle.
